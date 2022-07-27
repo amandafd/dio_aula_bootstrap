@@ -5,7 +5,7 @@
   <a href=""><img src="https://img.shields.io/badge/status-conclu%C3%ADdo-green" align="center" alt="Badge status" /></a>
   <a href=""><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" align="center" alt="Badge JavaScript" /></a>
   <a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="Badge HTML5" /></a>
-  <a href=""><img src="	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="Badge CSS3" /></a>
+  <a href=""><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="Badge CSS3" /></a>
   <a href=""><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" align="center" alt="Badge Bootstrap" /></a>
   <a href=""><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" align="center" alt="Badge Visual Studio Code" /></a>
 </p>
